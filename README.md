@@ -113,6 +113,23 @@ source .venv/bin/activate
 # 0.5
 # HUGGING PHASE - N
 
+## agar aap screen crete karna bhul jaate ho to 
+```
+pkill -f "SCREEN.*gensyn
+```
+```
+screen -S gensyn
+```
+
+```
+cd $HOME/rl-swarm/
+```
+```
+python3 -m venv .venv
+source .venv/bin/activate
+./run_rl_swarm.sh
+```
+
 # 🛑🛑 NOW AB AAPKO VPS ME COMMAND DALNA HAI CLOUDFLARE K VPS K SECOND TAB ME 🛑🛑
 
 # 🛑🛑 AB GMAIL SE LOGIN KARNA HAI WEB ME JAA K 🛑🛑
