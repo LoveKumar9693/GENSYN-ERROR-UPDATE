@@ -87,7 +87,9 @@ source .venv/bin/activate
 # HUGGING PHASE - N
 
 # 🛑🛑 NOW AB AAPKO VPS ME COMMAND DALNA HAI CLOUDFLARE K VPS K SECOND TAB ME 🛑🛑
-
+```
+cloudflared tunnel --url http://localhost:3000
+```
 # 🛑🛑 AB GMAIL SE LOGIN KARNA HAI WEB ME JAA K 🛑🛑
 
 #### 🛑🛑 LIVE KAR K DIKAHYA HAI SAB VIDEO ME 🛑🛑
