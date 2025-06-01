@@ -14,7 +14,7 @@
 # ⚡️Commands For Old Users   In Old VPS 👇
 
 ```
-: cd rl-swarm
+cd rl-swarm
 ```
 
 ```
