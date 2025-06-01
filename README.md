@@ -129,7 +129,18 @@ source .venv/bin/activate
 # 0.5
 # HUGGING PHASE - N
 
-## agar aap screen crete karna bhul jaate ho to 
+
+
+# AFTER ALL STEP CHECK YOUR NODE SCREEN COMMAND 🛑
+
+```
+screen -r gensyn
+```
+# 🛑🛑 NODE PARMANENTLY DELETE COMMAND 🛑🛑👇👇
+
+```
+sudo rm -rf ~/rl-swarm
+```
 
 
 #### 🛑🛑 LIVE KAR K DIKAHYA HAI SAB VIDEO ME 🛑🛑
