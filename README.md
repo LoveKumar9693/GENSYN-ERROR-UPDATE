@@ -93,11 +93,11 @@ curl https://raw.githubusercontent.com/imysryasir/Gsnyn-1-Click-Solutions/refs/h
 # 🛑🛑 AB GMAIL SE LOGIN KARNA HAI WEB ME JAA K 🛑🛑
 
 ##  🛑🛑 RESTART YOUR NODE NOW 🛑🛑
-
+```
 python3 -m venv .venv
 source .venv/bin/activate
 ./run_rl_swarm.sh
-
+```
 # AFTER COMPLETE THIS STEP 
 # SELECT MATH A
 # 0.5
@@ -105,28 +105,32 @@ source .venv/bin/activate
 
 
 # 🛑🛑 NOW AB AAPKO VPS ME COMMAND DALNA HAI CLOUDFLARE K VPS K SECOND TAB ME 🛑🛑
+```
 cloudflared tunnel --url http://localhost:3000
+```
 # 🛑🛑 AB GMAIL SE LOGIN KARNA HAI WEB ME JAA K 🛑🛑
 
 #### 🛑🛑 LIVE KAR K DIKAHYA HAI SAB VIDEO ME 🛑🛑
 
 
 ## 🛑🛑NOW AGAR AAPKA NODE TERMINTE YA DHTNODE BOOTSTRAP ERROR AAYE TO YE CMD DALNA HAI  🛑🛑
+```
 sed -i -r 's|(dht = hivemind.DHT\(start=True, startup_timeout=30, *)(.*)|\1ensure_bootstrap_success=False, \2|' ~/rl-swarm/hivemind_exp/runner/grpo_runner.py
+```
 
 ##  🛑🛑 RESTART YOUR NODE NOW 🛑🛑
-
+```
 python3 -m venv .venv
 source .venv/bin/activate
 ./run_rl_swarm.sh
-
+```
 # AFTER COMPLETE THIS STEP 
 # SELECT MATH A
 # 0.5
 # HUGGING PHASE - N
 
 ## agar aap screen crete karna bhul jaate ho to 
-```
+
 
 #### 🛑🛑 LIVE KAR K DIKAHYA HAI SAB VIDEO ME 🛑🛑
 
